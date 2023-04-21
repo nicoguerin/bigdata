@@ -1,1 +1,2 @@
-tonto el que lo lea *baile del trolleo*
+PROJECTE BIG DATA - Xavi Arechavala, Nico Guerin
+Curs: 2022 / 2023
